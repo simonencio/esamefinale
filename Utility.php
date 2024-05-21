@@ -1,17 +1,5 @@
 <?php
 namespace MieClassi;
-$stringa2 = ('<div class="testo">
-<h2>Creazione di siti web responsive</h2>
-<p>Uno tra i tanti lavori che effettuiamo consiste nella creazione di siti web responsive,<br> 
-cioè in grado di adattarsi a computer, smartphone e tablet.<br>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum<br> 
-has been the industries standard dummy text ever since the 1500s, when an unknown printer<br>
- took a galley of type and scrambled it to make a type specimen book. It has survived not<br>
-  only five centuries, but also the leap into electronic typesetting, remaining essentially<br>
-   unchanged. It was popularised in the 1960s with the release of Letraset sheets containing<br>
-    Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker<br>
-     including versions of Lorem Ipsum.</p>
-</div>');
 $counter = 0;
 /**
  * questa classe contiene tutti i metodi utili
@@ -23,6 +11,11 @@ $counter = 0;
 
 class Utility
 {
+    public static function getProjectById($id) {
+        $file = "progetti.json";
+        $arr = json_decode(self::leggiTesto($file), true);
+        return $arr[$id - 1];
+    }
     /**
      * funzione per leggere del testo in un file
      * 

@@ -2,43 +2,56 @@
     {
         "id": 1,
         "nome": "progetto 1",
-        "url": "progetto1.php",
-        "image_url":"webdesign.jpg",
-        "image_title":"vai al progetto"
+        "elenco_image_url":"immagini/webdesign.jpg",
+        "elenco_image_title":"vai al progetto 1",
+        "descrizione":"Uno tra i tanti lavori che effettuiamo consiste nella creazione di siti web responsive, cioè in grado di adattarsi a computer, smartphone e tablet. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industries standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "progetto_img":"immagini/realizzazione-siti-web-alberto-pozzi-monza.jpg",
+        "progetto_title": "Creazione di siti web responsive"
+
     },
     {
         "id": 2,
         "nome": "progetto 2",
-        "url": "progetto2.php",
-        "image_url":"webdesign.jpg",
-        "image_title":"vai al progetto"
+        "elenco_image_url":"immagini/webdesign.jpg",
+        "elenco_image_title":"vai al progetto 2",
+        "descrizione":"Uno tra i tanti lavori che effettuiamo consiste nella creazione di siti web responsive, cioè in grado di adattarsi a computer, smartphone e tablet. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industries standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        ,"progetto_img":"immagini/coverimage.png",
+        "progetto_title": "Creazione di siti web responsive"
     },
     {
         "id": 3,
         "nome": "progetto 3",
-        "url": "progetto3.php",
-        "image_url":"webdesign.jpg",
-        "image_title":"vai al progetto"
+        "elenco_image_url":"immagini/webdesign.jpg",
+        "elenco_image_title":"vai al progetto 3",
+        "descrizione":"Uno tra i tanti lavori che effettuiamo consiste nella creazione di siti web responsive, cioè in grado di adattarsi a computer, smartphone e tablet. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industries standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        ,"progetto_img":"immagini/Photoshop-logo.jpeg",
+        "progetto_title": "Creazione di siti web responsive"
     },
     {
         "id": 4,
         "nome": "progetto 4",
-        "url": "progetto4.php",
-        "image_url":"webdesign.jpg",
-        "image_title":"vai al progetto"
+        "elenco_image_url":"immagini/webdesign.jpg",
+        "elenco_image_title":"vai al progetto 4",
+        "descrizione":"Uno tra i tanti lavori che effettuiamo consiste nella creazione di siti web responsive, cioè in grado di adattarsi a computer, smartphone e tablet. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industries standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        ,"progetto_img":"immagini/16683353_5757453.jpg",
+        "progetto_title": "Creazione di siti web responsive"
     },
     {
         "id": 5,
         "nome": "progetto 5",
-        "url": "progetto5.php",
-        "image_url":"webdesign.jpg",
-        "image_title":"vai al progetto"
+        "elenco_image_url":"immagini/webdesign.jpg",
+        "elenco_image_title":"vai al progetto 5",
+        "descrizione":"Uno tra i tanti lavori che effettuiamo consiste nella creazione di siti web responsive, cioè in grado di adattarsi a computer, smartphone e tablet. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industries standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        ,"progetto_img":"immagini/Backend-Development.jpg",
+        "progetto_title": "Creazione di siti web responsive"
     },
     {
         "id": 6,
         "nome": "progetto 6",
-        "url": "progetto6.php",
-        "image_url":"webdesign.jpg",
-        "image_title":"vai al progetto"
+        "elenco_image_url":"immagini/webdesign.jpg",
+        "elenco_image_title":"vai al progetto 6",
+        "descrizione":"Uno tra i tanti lavori che effettuiamo consiste nella creazione di siti web responsive, cioè in grado di adattarsi a computer, smartphone e tablet. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industries standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        ,"progetto_img":"immagini/be-your-react-front-end-developer.jpg",
+        "progetto_title": "Creazione di siti web responsive"
     }
 ]
