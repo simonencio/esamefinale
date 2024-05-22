@@ -36,19 +36,6 @@
         </address>
             </div>
             <div class="secondo">
-                        <p>Contattaci:</p>
-                        <address>
-                            <ul>
-                                <li>
-                                    <a href="mailto:simone2nencioni@icloud.com" title="scrivici una mail">simone2nencioni@icloud.com</a>
-                                </li>
-                                <li>
-                                    <a href="tel:3337215293" title="Telefonaci">+39 3337215293</a>
-                                </li>
-                            </ul>
-                        </address>
-        </div>
-            <div class="terzo">
                         <p>Seguici su:</p>
                         <address>
                             <ul>
@@ -64,6 +51,19 @@
                             </ul>
                         </address>
             </div>
+            <div class="terzo">
+                        <p>Contattaci:</p>
+                        <address>
+                            <ul>
+                                <li>
+                                    <a href="mailto:simone2nencioni@icloud.com" title="scrivici una mail">simone2nencioni@icloud.com</a>
+                                </li>
+                                <li>
+                                    <a href="tel:3337215293" title="Telefonaci">+39 3337215293</a>
+                                </li>
+                            </ul>
+                        </address>
+        </div>
 </div>
         </section>
     <section class="serious">

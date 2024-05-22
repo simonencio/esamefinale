@@ -54,7 +54,7 @@ if ($project == null) {
             </div>
         </section>
         <div class="project-title">
-            <h2>Lavori</h2>
+            <h3>Lavori</h3>
         </div>
         <section class="fotolavori">
   <ul class="lavori">
